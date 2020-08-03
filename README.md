@@ -3,16 +3,16 @@
 Download repositories or clone 
 
 # Angular 
-npm i
+npm i <br>
 npm start
 
 # Node
-yarn
+yarn<br>
 yarn start:dev
 
-For test login use 
-username: Admin
-password : admin123
+For test login use <br>
+username: Admin <br>
+password : admin123 <br>
 
 
 # Troubleshooting
